@@ -59,4 +59,4 @@ To improve model efficiency, FastText quantization was applied:
 - Improved deployment efficiency
 
 ### Deployment
-The trained model was integrated into a Gradio-based web interface and deployed on Hugging Face Spaces, allowing users to test address quality predictions in real time.
+The trained model was integrated into a [Gradio](https://www.gradio.app/)-based web interface and deployed on Hugging Face Spaces, allowing users to test address quality predictions in real time.
