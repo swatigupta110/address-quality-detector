@@ -28,7 +28,7 @@ The dataset was divided into:
 A **stratified split** was used to maintain equal distribution of address quality labels across training and testing datasets.
 
 ### FastText Model Training
-A **FastText supervised classification model** was trained using the processed text data.
+A [**FastText supervised classification model**](https://fasttext.cc/docs/en/support.html) was trained using the processed text data.
 Key parameters used:
 - epoch = 10
 - learning rate = 0.3
