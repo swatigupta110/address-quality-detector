@@ -4,6 +4,10 @@ An NLP-based machine learning project trained on Indian addresses to detect inva
 ## Live Demo
 https://huggingface.co/spaces/swatigupta110/space-address-quality-detector
 
+## Model Training Notebook
+The complete model training and experimentation process can be viewed here:
+https://colab.research.google.com/drive/1T3d6WfSQT8c9d7vv3nuiqsw0QV6pP743?usp=sharing
+
 ## Detailed Explanation of Project 
 This project builds a machine learning pipeline to automatically evaluate the quality of addresses using **Natural Language Processing** techniques.
 
